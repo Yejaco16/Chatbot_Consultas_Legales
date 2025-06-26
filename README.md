@@ -44,5 +44,7 @@ El chatbot responderá con información legal básica.
 └── script.js
 
 index.html: Contiene la estructura principal de la aplicación, incluyendo el contenedor del chat, el título, el área de mensajes, el campo de entrada y el botón de envío.
+
 styles.css: Define la apariencia visual de la interfaz del chatbot, incluyendo colores, fuentes, espaciado y disposición.
+
 script.js: Contiene la lógica del chatbot. Maneja el envío de mensajes, la interacción con la API de OpenRouter, la adición de mensajes al DOM y el desplazamiento automático del chat.
